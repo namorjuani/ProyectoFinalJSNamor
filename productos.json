@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "nombre": "cera para autos",
+        "categoria": "cosmetica",
+        "precio": 500,
+        "img": "https://www.revigal.com.ar/wp-content/uploads/2015/04/CERA-AUTOBRILLO-800X800-1.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "shampoo para autos",
+        "categoria": "cosmetica",
+        "precio": 800,
+        "img": "https://www.fullcarweb.com.ar/wp-content/uploads/2019/01/Lava-Autos-Espuma-Actibril-Color-x-5-L.jpg"
+    },
+    {
+        "id": 3, 
+        "nombre": "máquina de lavado de autos", 
+        "categoria": "maquinas", 
+        "precio": 150000,
+        "img": "https://m.media-amazon.com/images/I/71b+ag+IH9L.jpg"
+    },
+    {
+        "id": 4, 
+        "nombre": "lanza para máquina de lavado", 
+        "categoria": "maquinas", 
+        "precio": 10000,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_903376-MLA31022209149_062019-O.webp"
+    },
+    {
+        "id": 5, 
+        "nombre": "máquina de espuma", 
+        "categoria": "maquinas", 
+        "precio": 50000,
+        "img": "https://m.media-amazon.com/images/I/81ZjC95iRHL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 6, 
+        "nombre": "escobilla", 
+        "categoria": "autopartes", 
+        "precio": 3000,
+        "img": "https://www.boutiqueautomovil.com.ar/wp-content/uploads/2017/01/ESCOBILLAS-BOSCH-AEROFIT.jpg"
+    },
+    {
+        "id": 7, 
+        "nombre": "cubre volante", 
+        "categoria": "autopartes", 
+        "precio": 2500,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/621/239/products/2021_tn-qkl_ao90011-17c84dd810aecbeaa316170478342304-640-0.jpg"
+    }
+]
